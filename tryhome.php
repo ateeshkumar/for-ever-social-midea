@@ -23,6 +23,7 @@
             <li><a href="http://"><div class="profile"><img src="php/image/" alt="pic"></div></a></li>
             <li><a href="livechatuser.php"><i class="fa fa-wechat"></i></a></li>
             <li><a href="http://"><i class="fa fa-bell"></i></a></li>
+            <li><a href="http://"><i class="fa fa-bell"></li></a></li>
         </ul>
     </nav>
     <div class="section">
